@@ -1,1 +1,1 @@
-# Learn_coding_from_the_start
+These execises will help a newbie to learn coding right from the start, and do you know the best part? ITS NOT PROGRAM DEPENDENT you can code these questions in any technical language of your choice. So start working on your skills with these questions! Every Upload here will have the file name of the question and the file will have the solution to the question in C++. Every week there will be only 2 questions from each level which will help the learner to give ample thoughts and time to learn the language! Happy Coding!
