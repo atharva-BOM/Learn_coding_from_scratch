@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a, b;
+	cout << "Enter the number A: ";
+	cin >> a;
+	cout << "Enter the number B: ";
+	cin >> b;
+	cout << "The number A: " << b << endl;
+	cout << "The number B: " << a << endl;
+}

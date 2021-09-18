@@ -1,0 +1,13 @@
+#include<iostream>
+#include<math.h>
+constexpr auto pi = 3.14159;
+using namespace std;
+int main()
+{
+	int n;
+	cout << "Enter the value of radius: ";
+	cin >> n;
+	int area;
+	area = pi * n * n;
+	cout << "The Area: " << area;
+}
