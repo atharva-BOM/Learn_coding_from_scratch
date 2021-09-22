@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cout << "Enter the maximum number in the series: ";
+	cin >> n;
+	int i = 1 , ans=0;
+	while (i <= n)
+	{
+		ans = ans + i;
+		i++;
+	}
+	cout << "The answer: " << ans;
+}
